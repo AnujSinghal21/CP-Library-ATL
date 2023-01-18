@@ -1,7 +1,7 @@
 /*
     Returns prime factorization of a number in form of vector where each element is of form (p, e) such that prime factorization of n contains p^e
     T(n) = O(sqrt(n))
-    S(n) = O(1)
+    S(n) = O(log(n))
     Written On: 18-01-23
 */
 #include<bits/stdc++.h>
